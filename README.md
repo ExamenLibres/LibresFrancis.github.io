@@ -13,17 +13,30 @@ El proyecto contará con una licencia GNU GENERAL PUBLIC LICENSE.
 
 ### Labels a usarse dentro del proyecto
 
+Bug
+
+Documnetación
+
+Preguntas
+
+Inválido
+
 ### Descripción general del proyecto
 
-SocPlay puede ser utilizado en varias plataformas incluidas GNU/Linux, Windows, Mac OS, iOS y Android.
+SocPlay puede ser utilizado en varias plataformas incluidas GNU/Linux, Windows, Mac OS, iOS y Android. Nació como una iniciativa de crear un juego que permita al usuario controlar a su voluntad un equipo de fútbol, pudiendo así, realizar transferencias de jugadores, armar las alineacioens eficacez por medio de su imaginación.
 
 ### Tipos de roles del proyecto
 
 Directivo
+
 Programador
+
 Asegurador de calidad
+
 Diseñador gráfico
+
 Documentador
+
 Analista
 
 
