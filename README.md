@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# SocPlay
+### Objetivo del proyecto
 
-You can use the [editor on GitHub](https://github.com/ExamenLibres/LibresFrancis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+SocPlay es un proyecto OpenSource que permitirá a sus usuarios gestionar su equipo de futbol a la manera que ellos quieran. En él demostrarás tus cualidades como organizador de un equipo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Fundador del proyecto
+El Fundador del proyecto es Francis Soria.
+Generalmente trata de facilitar la democracia y la meritocracia pero ocasionalmente tiene que tomar decisiones ejecutivas sobre las cosas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Licencia del proyecto
+El proyecto contará con una licencia GNU GENERAL PUBLIC LICENSE
 
-```markdown
-Syntax highlighted code block
+### Labels a usarse dentro del proyecto
 
-# Header 1
-## Header 2
-### Header 3
+### Descripción general del proyecto
 
-- Bulleted
-- List
+### Tipos de roles del proyecto
 
-1. Numbered
-2. List
+### Tipo de gestión del proyecto
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExamenLibres/LibresFrancis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
