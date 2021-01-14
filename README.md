@@ -74,7 +74,7 @@ Para la gestión de toma de decisiones sobre el proyecto se debe seguir los sigu
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group size1of2">
-	<label for="mce-BIRTHDAY-month">Día y Mes de Nacimiento </label>
+	<label for="mce-BIRTHDAY-month">Birthday</label>
 	<div class="datefield">
 		<span class="subfield monthfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span> / 
 		<span class="subfield dayfield"><input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="BIRTHDAY[day]" id="mce-BIRTHDAY-day"></span> 
